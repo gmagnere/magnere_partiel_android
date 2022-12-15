@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">magnere</string>
+    <string name="text_button_search">Search</string>
+    <string name="search_bar_hint">Search a user</string>
+</resources>
